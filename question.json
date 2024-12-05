@@ -1,0 +1,80 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Olivia is examining a set of symbols and needs to match one with the number 14. Can you help her find the right one?",
+    "options": [
+      "1.png",
+      "2.png"
+    ],
+    "correct": 1,
+    "explanation": "Find the model that shows 14. This model has 1 ten and 4 ones."
+  },
+  {
+    "questionNo": "Q2",
+    "question": "While exploring a hidden chamber, Olivia spots a symbol that might represent 65. Which one is it?",
+    "options": [
+      "3.png",
+      "4.png"
+    ],
+    "correct": 1,
+    "explanation": "Find the model that shows 65. This model has 6 tens and 5 ones."
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Olivia uncovers a mysterious marking and wonders if it shows the number 87. Can you identify it for her?",
+    "options": [
+      "5.png",
+      "6.png"
+    ],
+    "correct": 0,
+    "explanation": "Find the model that shows 87. This model has 8 tens and 7 ones."
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Olivia has come across a mysterious symbol, and she needs to identify which number it represents. What number does it show?<br><img width='55%' src='./images/1.jpg'>",
+    "options": [
+      "70",
+      "90",
+      "80",
+      "60"
+    ],
+    "correct": 1,
+    "explanation": "Count the tens. There are 9 tens. Count the ones. There are 0 ones."
+  },
+  {
+    "questionNo": "Q5",
+    "question": "In another part of the cave, Olivia finds a symbol. Can you help her identify the number it represents?<br><img width='55%' src='./images/2.jpg'>",
+    "options": [
+      "1124",
+      "1234",
+      "1434",
+      "1324"
+    ],
+    "correct": 3,
+    "explanation": "Count the thousands. There are 1 thousand. Count the hundreds. There are 3 hundred. Count the tens. There are 2 tens. Count the ones. There are 4 ones.<br><img width='55%' src='./images/3.jpg'>"
+  },
+  {
+    "questionNo": "Q6",
+    "question": "As Olivia ventures deeper, she comes across a model. Can you figure out which number this model represents?<br><img width='55%' src='./images/3.jpg'>",
+    "options": [
+      "466",
+      "465",
+      "456",
+      "464"
+    ],
+    "correct": 2,
+    "explanation": "Count the hundreds. There are 4 hundred. Count the tens. There are 5 tens. Count the ones. There are 6 ones."
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Can you help her decode which number is shown here?<br><img width='60%' src='./images/4.jpg'>",
+    "options": [
+      "2614",
+      "2610",
+      "2615",
+      "2616"
+    ],
+    "correct": 0,
+    "explanation": "Count the thousands. There are 2 thousand. Count the hundreds. There are 6 hundred. Count the tens. There is 1 ten. Count the ones. There are 4 ones."
+  }
+]
